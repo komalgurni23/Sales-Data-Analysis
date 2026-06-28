@@ -3,6 +3,16 @@
 ## Overview
 This project analyzes sales data using Python and Pandas.
 
+## GitHub Structure
+
+```text
+Sales-Data-Analysis/
+│── sales_analysis.py
+│── sales_data.csv
+│── analysis_report.md
+└── requirements.txt
+```
+
 ## Features
 - Load CSV data using Pandas
 - Handle missing values

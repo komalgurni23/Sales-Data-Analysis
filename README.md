@@ -1,8 +1,3 @@
-# Sales-Data-Analysis
-Sales Data Analysis 
-<br>
-python
-
 # Sales Data Analysis
 
 ## Overview
